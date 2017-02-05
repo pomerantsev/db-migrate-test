@@ -1,0 +1,8 @@
+{
+  "sql-file": true,
+  "dev": {
+    "driver": "pg",
+    "host": "localhost",
+    "database": "db_migrate_test"
+  }
+}
